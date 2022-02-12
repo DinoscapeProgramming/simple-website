@@ -6,5 +6,5 @@ app.all('/', (req, res) => {
 })
 
 app.listen(3000, () => {
-  console.log("Your website is on!")
+  console.log("Your website is ready to use!")
 })
